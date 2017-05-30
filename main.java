@@ -1,10 +1,3 @@
-
-/**
- * @author A nev: Boldizsar Richard
- * @EHA: BORYAAT.SZE
- * @feladatMegnevezes: Catan telepesei Light
- */
-
 public class main {
 
 	public static void main(String[] args) {
